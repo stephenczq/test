@@ -3,3 +3,5 @@ Git is free software.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git url ssh.
+This is developer.
+ubuntu push developer to update git.
