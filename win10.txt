@@ -1,6 +1,6 @@
 push from ubuntu
 
-add ubuntu
+add ubuntu1111
 
 
 add win10
